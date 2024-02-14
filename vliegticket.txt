@@ -1,3 +1,4 @@
 SN3815
 brussel --> lissabon
+brussel <-- lissabon
 zonder mes
